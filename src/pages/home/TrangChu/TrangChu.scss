@@ -1,0 +1,180 @@
+.tan__home{
+    .img_bg{
+        width: 100%;
+        height: 450px;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+}
+.item{
+    height: 300px;
+    .card{
+        height: 300px;
+        .card-img-top{
+            width: 100%;
+            height: 120px;
+        }
+        .card-body{
+            padding:0.5rem
+        }
+        .card-title{
+            padding-bottom: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            width: 190px;
+        }
+        .card-text{
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            display: -webkit-box;
+        }
+        .btn-primary{
+            bottom: 10px;
+            left: 22%;
+            position: absolute;
+        }
+    }
+}
+.owl-carousel.owl-drag .owl-item{
+    width: 202px!important;
+    margin: 10px!important;
+}
+.owl-theme .owl-nav {
+    position: relative;
+    bottom: 140px;
+    margin: 0 3%;
+}
+.owl-theme .owl-nav span{
+    font-size: 50px;
+    color: gray;
+}
+.owl-prev {
+    position: absolute;
+    left: -50px;
+}
+.owl-next {
+    position: absolute;
+    right: -50px;
+}
+.main_teacher{
+    .text_teacher{
+        text-align: center;
+    }
+}
+.footer {
+    .footer-content {
+      padding: 50px;
+      background: #2c3238;
+      color: gray;
+      border-bottom: 1px solid #676161;
+      ul {
+        list-style: none;
+        padding: 0;
+        p {
+          color: #00cb54;
+          font-size: 20px;
+          font-weight: 700;
+          margin-bottom: 30px;
+        }
+        li {
+          margin-top: 10px;
+          margin-bottom: 10px;
+          a {
+            color: gray;
+            &:hover {
+              text-decoration: none;
+              color: rgb(214, 212, 212);
+            }
+          }
+        }
+      }
+      .power {
+        li {
+          margin-right: 15px;
+        }
+      }
+    }
+    .newsletter {
+      color: white;
+      background: #2c3238;
+      padding: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      .content {
+        h3 {
+          font-weight: 700;
+          color: #00cb54;
+        }
+        .subscribe {
+          .submit {
+            display: flex;
+            justify-content: space-around;
+            width: 75%;
+            margin: auto;
+            button.btn.btn-info {
+                width: 100px;
+            }
+            input {
+              background-color: rgba(255, 255, 255, 0.2);
+              color: #acacac;
+              border: 1px solid #868a8d;
+              font-style: italic;
+              font-size: 15px;
+              width: 450px;
+              font-weight: 300;
+              padding: 10px 20px;
+              float: left;
+              height: 40px;
+              &::placeholder {
+                color: rgb(175, 168, 168);
+              }
+              &:focus {
+                outline: none;
+              }
+            }
+            button {
+              border-radius: 0px;
+              background: #00cb54;
+              border: 2px solid rgb(197, 192, 192);
+              &:hover {
+                background: transparent;
+                color: #00cb54;
+                border-color: #00cb54;
+                transition: 0.3s;
+              }
+            }
+          }
+          .icons {
+            display: flex;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            justify-content: center;
+            a {
+              border: 1px solid rgba(160, 153, 153, 0.4);
+              border-radius: 100%;
+              width: 40px;
+              display: block;
+              line-height: 38px;
+              height: 40px;
+              color: rgba(138, 128, 128, 0.7);
+              margin-left: 10px;
+              margin-right: 10px;
+              &:hover {
+                border-color: #00cb54;
+                background: #00cb54;
+                color: white;
+                transition: 0.3s;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  
