@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project_QLKH/static/css/main.de106660.chunk.css",
+    "main.js": "/project_QLKH/static/js/main.2f5b1bd2.chunk.js",
+    "main.js.map": "/project_QLKH/static/js/main.2f5b1bd2.chunk.js.map",
+    "runtime-main.js": "/project_QLKH/static/js/runtime-main.1f407bac.js",
+    "runtime-main.js.map": "/project_QLKH/static/js/runtime-main.1f407bac.js.map",
+    "static/css/2.1a125a89.chunk.css": "/project_QLKH/static/css/2.1a125a89.chunk.css",
+    "static/js/2.e115c950.chunk.js": "/project_QLKH/static/js/2.e115c950.chunk.js",
+    "static/js/2.e115c950.chunk.js.map": "/project_QLKH/static/js/2.e115c950.chunk.js.map",
+    "index.html": "/project_QLKH/index.html",
+    "precache-manifest.2be7da0c97a2cff7c0bf7a309f403e34.js": "/project_QLKH/precache-manifest.2be7da0c97a2cff7c0bf7a309f403e34.js",
+    "service-worker.js": "/project_QLKH/service-worker.js",
+    "static/css/2.1a125a89.chunk.css.map": "/project_QLKH/static/css/2.1a125a89.chunk.css.map",
+    "static/css/main.de106660.chunk.css.map": "/project_QLKH/static/css/main.de106660.chunk.css.map",
+    "static/js/2.e115c950.chunk.js.LICENSE.txt": "/project_QLKH/static/js/2.e115c950.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f407bac.js",
+    "static/css/2.1a125a89.chunk.css",
+    "static/js/2.e115c950.chunk.js",
+    "static/css/main.de106660.chunk.css",
+    "static/js/main.2f5b1bd2.chunk.js"
+  ]
+}
